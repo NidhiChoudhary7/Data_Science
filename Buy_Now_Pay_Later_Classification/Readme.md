@@ -99,7 +99,7 @@ jupyter notebook Buy_Now_Pay_Later_Model.ipynb
 
 ## 👩‍🔬 **Contributors**
 
-- **[Nidhi Choudhary]([nidhi](https://github.com/NidhiChoudhary7/)** - Project Lead  
+- **[Nidhi Choudhary](https://github.com/NidhiChoudhary7/)** - Project Lead  
 - **[Ritik Sinha](2)** - Data Analyst  
 
 
