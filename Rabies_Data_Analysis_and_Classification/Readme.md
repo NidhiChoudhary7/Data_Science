@@ -40,3 +40,35 @@ Ensure you have the required libraries installed by running:
 
 ```bash
 pip install scikit-learn xgboost imbalanced-learn pandas matplotlib seaborn torch keras
+```
+
+---
+# 📄 Dataset
+Source: New York State Health Data
+Format: CSV files retrieved dynamically via API requests
+
+⚙️ How to Run the Project
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/rabies-prediction.git
+```
+2. Navigate to the project directory:
+```bash
+cd rabies-prediction
+```
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+Run the notebook sequentially in Jupyter Notebook or Google Colab.
+
+# 🌍 Use Case
+This project provides valuable insights for public health decision-making:
+
+Analyze trends in Rabies outbreaks across New York.
+Identify high-risk regions and conditions contributing to outbreaks.
+Develop predictive models for early intervention and resource planning.
+
+
+
